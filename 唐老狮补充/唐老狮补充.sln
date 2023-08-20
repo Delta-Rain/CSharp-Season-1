@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 控制台输入输出", "控制台输入输出\01 控制台输入输出.csproj", "{B5EB864F-BE7E-4788-A151-022198A53E67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 练习-WASD控制黄点移动", "练习-WASD控制黄点移动\02 练习-WASD控制黄点移动.csproj", "{8B881149-2C34-4F08-94AB-6F125B4B1988}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03 随机数", "随机数\03 随机数.csproj", "{944F572B-7180-46DD-8032-04E8AB1A0407}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04 练习-随机数", "练习-随机数\04 练习-随机数.csproj", "{502429E1-98AA-47F0-8925-AB7D66574699}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05 练习-救公主", "05 练习-救公主\05 练习-救公主.csproj", "{82D9330C-4344-48E1-9E50-57F59912603D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "对照", "对照\对照.csproj", "{54680F63-F99B-4719-BDAD-2387A41F2A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EB864F-BE7E-4788-A151-022198A53E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EB864F-BE7E-4788-A151-022198A53E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EB864F-BE7E-4788-A151-022198A53E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EB864F-BE7E-4788-A151-022198A53E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B881149-2C34-4F08-94AB-6F125B4B1988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B881149-2C34-4F08-94AB-6F125B4B1988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B881149-2C34-4F08-94AB-6F125B4B1988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B881149-2C34-4F08-94AB-6F125B4B1988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944F572B-7180-46DD-8032-04E8AB1A0407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944F572B-7180-46DD-8032-04E8AB1A0407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944F572B-7180-46DD-8032-04E8AB1A0407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944F572B-7180-46DD-8032-04E8AB1A0407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{502429E1-98AA-47F0-8925-AB7D66574699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502429E1-98AA-47F0-8925-AB7D66574699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502429E1-98AA-47F0-8925-AB7D66574699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502429E1-98AA-47F0-8925-AB7D66574699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D9330C-4344-48E1-9E50-57F59912603D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D9330C-4344-48E1-9E50-57F59912603D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D9330C-4344-48E1-9E50-57F59912603D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D9330C-4344-48E1-9E50-57F59912603D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54680F63-F99B-4719-BDAD-2387A41F2A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54680F63-F99B-4719-BDAD-2387A41F2A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54680F63-F99B-4719-BDAD-2387A41F2A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54680F63-F99B-4719-BDAD-2387A41F2A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CB438D2-AA0A-4553-89E3-1DF0907919B9}
+	EndGlobalSection
+EndGlobal
